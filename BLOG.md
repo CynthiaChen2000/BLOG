@@ -148,6 +148,8 @@ sudo apt-get install ubuntu-restricted-extras
 
 ### OBS Studio
 
+### OBS Studio
+
 ####　一、环境
 
 操作系统：Windows 10 64 位 中文家庭版
